@@ -14,9 +14,7 @@ It supports **secure authentication**, **real-time messaging**, and **multi-user
 
 ### 💬 Real-Time Chat Page
 
-![Image](<img width="1912" height="1077" alt="Chat page" src="https://github.com/user-attachments/assets/3b6842fe-2293-470b-96cc-cc0b0d5cae99" />)
-
-
+![Image alt](https://github.com/Indhumithra/Simple-Cloud-Based-Chat-Application/blob/4454f70616862f508d4f1aa06247333c757d9654/Chat%20page.png)
 
 ---
 
