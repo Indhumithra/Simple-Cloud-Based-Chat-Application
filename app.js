@@ -1,5 +1,5 @@
 const firebaseConfig = {
-  apiKey: "AIzaSyCfkNXHvKbpjO9vFoRLyD9liTY7x6fdp0Y",
+  apiKey: "AIzaSyAQqzHta-X9y1uC8ocDcesjcOX2V-989_8",
     authDomain: "cloud-chat-application-73622.firebaseapp.com",
   projectId: "cloud-chat-application-73622",
 };
@@ -58,3 +58,4 @@ import("https://www.gstatic.com/firebasejs/9.23.0/firebase-app.js").then(({ init
     });
   });
 });
+
