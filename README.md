@@ -14,12 +14,13 @@ It supports **secure authentication**, **real-time messaging**, and **multi-user
 
 ### 🔐 Login & Registration Page
 
-![Image](https://docs.jetstream-cloud.org/images/inference-service-owui-signup.png)
+![Image](<img width="1919" height="1079" alt="Cloud Chat login page" src="https://github.com/user-attachments/assets/c349dccb-188e-4548-9de7-3a00070b25d5" />)
 
 
 ### 💬 Real-Time Chat Page
 
-![Image](https://cdn.prod.website-files.com/620c3ba9ea080a332239a65f/67efc334e11efd203b7b4591_%5BEN%5D%20Conversas%20Cloud%20Chat.png)
+![Image](<img width="1912" height="1077" alt="Chat page" src="https://github.com/user-attachments/assets/3b6842fe-2293-470b-96cc-cc0b0d5cae99" />)
+
 
 
 ---
