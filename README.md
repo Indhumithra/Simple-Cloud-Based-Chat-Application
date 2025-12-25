@@ -4,6 +4,10 @@ A real-time cloud chat application built using **HTML, CSS, JavaScript**, **Node
 It supports **secure authentication**, **real-time messaging**, and **multi-user chat** using **Firebase Authentication** and **Firestore Database**.
 
 ---
+## 🚀 Live Demo
+🔗 **https://cloud-chat-application-73622.web.app**
+
+---
 
 ## 📸 Project Screenshots
 
