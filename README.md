@@ -16,13 +16,11 @@ It supports **secure authentication**, **real-time messaging**, and **multi-user
 
 ![Image](https://docs.jetstream-cloud.org/images/inference-service-owui-signup.png)
 
-![Image](https://objectstorage.us-ashburn-1.oraclecloud.com/n/idatzojkinhi/b/img.recursive.codes/o/c352d70c-c118-404c-9a61-e8f939ab768d/2019_11_01_12_16_06.jpg)
 
 ### 💬 Real-Time Chat Page
 
 ![Image](https://cdn.prod.website-files.com/620c3ba9ea080a332239a65f/67efc334e11efd203b7b4591_%5BEN%5D%20Conversas%20Cloud%20Chat.png)
 
-![Image](https://s3.envato.com/files/292478535/screenshots/admin_dashboard.png)
 
 ---
 
