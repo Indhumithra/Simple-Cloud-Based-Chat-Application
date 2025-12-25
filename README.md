@@ -1,8 +1,3 @@
-Below is a **clean, professional, step-by-step GitHub README** you can directly paste into your repository.
-It is **resume-ready**, **college-project ready**, and **explains everything clearly**.
-
----
-
 # ☁️ Cloud-Based Chat Application
 
 A real-time cloud chat application built using **HTML, CSS, JavaScript**, **Node.js**, and **Firebase**.
@@ -14,7 +9,7 @@ It supports **secure authentication**, **real-time messaging**, and **multi-user
 
 ### 🔐 Login & Registration Page
 
-![Image](<img width="1919" height="1079" alt="Cloud Chat login page" src="https://github.com/user-attachments/assets/c349dccb-188e-4548-9de7-3a00070b25d5" />)
+![Image alt](https://github.com/Indhumithra/Simple-Cloud-Based-Chat-Application/blob/f6dfef3402d8d057c3e7fd4bfe3edf67f4cc8927/Cloud%20Chat%20login%20page.png)
 
 
 ### 💬 Real-Time Chat Page
